@@ -67,6 +67,9 @@
 # Text files
 !/**/*.txt
 
+# Select .csv files
+!/**/*catalog.csv
+
 #######################
 #Un-ignore all images used for Latex-presentations
 !**/Common-Resources/img/*.png
